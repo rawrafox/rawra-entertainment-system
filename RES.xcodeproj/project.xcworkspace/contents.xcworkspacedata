@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Engine.xcodeproj">
+      location = "self:/Users/Aurora/Code/Random/xcode/RES/RES.xcodeproj">
    </FileRef>
 </Workspace>
